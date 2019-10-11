@@ -1,0 +1,13 @@
+.ToolBar {
+  margin-top: 20px
+}
+.ToolBar > span,
+.ToolBar > button {
+  margin-right: 5px
+}
+.k-textbox-container {
+  padding-top: 0
+}
+.k-textbox-container>.k-label {
+  top: 5px
+}
